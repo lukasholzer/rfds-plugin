@@ -1,0 +1,40 @@
+{
+    "name": "typeflow/rfds",
+    "description": "Business logic for the RFDS store",
+    "type": "craft-plugin",
+    "version": "0.0.1",
+    "keywords": [
+        "craft",
+        "cms",
+        "craftcms",
+        "craft-plugin",
+        "rfds"
+    ],
+    "support": {
+        "docs": "https://github.com/lukasholzer/rfds/blob/master/README.md",
+        "issues": "https://github.com/lukasholzer/rfds/issues"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Typeflow e.U.",
+            "homepage": "www.typeflow.cc"
+        }
+    ],
+    "require": {
+        "craftcms/cms": "^3.0.0-RC1"
+    },
+    "autoload": {
+        "psr-4": {
+          "typeflow\\rfds\\": "src/"
+        }
+    },
+    "extra": {
+        "name": "RFDS",
+        "handle": "rfds",
+        "hasCpSettings": false,
+        "hasCpSection": false,
+        "changelogUrl": "https://raw.githubusercontent.com/lukasholzer/rfds/master/CHANGELOG.md",
+        "class": "typeflow\\rfds\\RFDS"
+    }
+}
