@@ -1,8 +1,8 @@
 {
-    "name": "typeflow/rfds",
+    "name": "typeflow/rfds-plugin",
     "description": "Business logic for the RFDS store",
     "type": "craft-plugin",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "keywords": [
         "craft",
         "cms",
