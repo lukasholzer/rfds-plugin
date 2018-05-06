@@ -21,6 +21,10 @@ To install the plugin, follow these instructions.
 
 3. In the Control Panel, go to Settings → Plugins and click the “Install” button for RFDS.
 
+**adding additional components**
+use this yeomen generator [generator-craftplugin](https://github.com/nystudio107/generator-craftplugin) to add further components.
+
+
 ## RFDS Overview
 
 -Insert text here-
