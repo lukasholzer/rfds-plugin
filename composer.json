@@ -11,8 +11,8 @@
         "rfds"
     ],
     "support": {
-        "docs": "https://github.com/lukasholzer/rfds/blob/master/README.md",
-        "issues": "https://github.com/lukasholzer/rfds/issues"
+        "docs": "https://github.com/lukasholzer/rfds-plugin/blob/master/README.md",
+        "issues": "https://github.com/lukasholzer/rfds-plugin/issues"
     },
     "license": "MIT",
     "authors": [
@@ -34,7 +34,7 @@
         "handle": "rfds",
         "hasCpSettings": false,
         "hasCpSection": false,
-        "changelogUrl": "https://raw.githubusercontent.com/lukasholzer/rfds/master/CHANGELOG.md",
+        "changelogUrl": "https://github.com/lukasholzer/rfds-plugin/blob/master/CHANGELOG.md",
         "class": "typeflow\\rfds\\RFDS"
     }
 }
